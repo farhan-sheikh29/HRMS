@@ -22,9 +22,18 @@ JavaScript for dynamic and interactive user experiences.
 Benefits:
 
 Efficiency: Simplifies HR tasks, reducing manual efforts and improving overall efficiency.
+
+
+
 Transparency: Provides transparent tracking of employee attendance and leave requests.
 Collaboration: Enhances team collaboration through a dedicated team section.
 Overall, the "Human Resource Management System" is a powerful tool that optimizes HR operations, ensuring a smoother workflow and improved employee management.
+
+![Screenshot (3434)](https://github.com/farhan-sheikh29/HRMS/assets/109412888/cef3bd25-ab4f-4c3e-9636-5e8c70ecb9c5)
+
+![Screenshot (3435)](https://github.com/farhan-sheikh29/HRMS/assets/109412888/b495666f-bb1f-409a-b8d4-1f1cce65044a)
+
+
 
 
 
