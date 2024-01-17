@@ -6,6 +6,10 @@ for Admin: Username : sheikhfarhan328@gmail.com
 
 For User/employee : Username : 
                     password :
+
+
+
+                    
 HRMS app on OutSystems, covering onboarding, performance, and payroll. Integrated a database for seamless data managemement.
 
 Human Resource Management System
